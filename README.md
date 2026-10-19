@@ -1,126 +1,101 @@
-<!-- Dark cyberpunk profile for Shlok Bagul -->
+<!-- Put this file in a public repo named exactly "shlok3664" (same as your username) -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shlok3664/shlok3664/main/assets/cyberpunk-banner.svg" alt="Dark cyberpunk banner: Build. Secure. Intelligence." width="100%" />
-  <br/>
-  <h1>Shlok Bagul</h1>
-  <p><strong>Second-year BS student at IIT Patna · AI & Cybersecurity</strong></p>
-  <p><code>BUILD SYSTEMS</code> &nbsp; <code>SECURE INFRASTRUCTURE</code> &nbsp; <code>EXPLORE INTELLIGENCE</code></p>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING-07111F?style=for-the-badge&labelColor=020817&color=1F6FEB" alt="Learning and building" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20CYBERSECURITY-07111F?style=for-the-badge&labelColor=020817&color=00B8D9" alt="AI and cybersecurity" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0ea5e9,100:a855f7&text=Shlok%20Bagul&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=build%20secure%20intelligent%20systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="banner" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Learn.+Build.+Improve.+Repeat.;AI+%C3%97+Cybersecurity;%22Discipline+today%2C+freedom+tomorrow.%22)](https://github.com/shlok3664)
+
+![AI](https://img.shields.io/badge/AI-38BDF8?style=for-the-badge&labelColor=020617)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-22D3EE?style=for-the-badge&labelColor=020617)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A78BFA?style=for-the-badge&labelColor=020617)
+![Network Security](https://img.shields.io/badge/Network%20Security-60A5FA?style=for-the-badge&labelColor=020617)
+![Systems](https://img.shields.io/badge/Systems-F472B6?style=for-the-badge&labelColor=020617)
+
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## `>_` Hi, I'm Shlok
 
-## ⌁ whoami
+Second-year BS student at **IIT Patna** (AI & Cybersecurity), passionate about building intelligent systems and securing digital infrastructure.
 
-I'm a **second-year BS student at IIT Patna**, interested in building intelligent systems and securing digital infrastructure.
+I explore the intersection of **AI and cybersecurity**, working on real-world problems through projects, research and curious learning.
 
-I explore the intersection of **machine learning, systems, and cybersecurity**—especially practical problems where data and security meet.
+```text
+> problem solver
+> systems thinker
+> always learning _
+```
 
-- **Currently:** Building LAB Search and developing project prototypes
-- **Exploring:** Applied ML, anomaly detection, and network security
-- **Learning:** Python, statistics, and systems fundamentals
-- **Open to:** Research conversations, collaborations, and internship opportunities
-
-</td>
-<td width="42%" valign="top">
-
-## // profile
-
-- **Handle:** [@shlok3664](https://github.com/shlok3664)
-- **Institution:** IIT Patna
-- **Interests:** AI · Cybersecurity · Systems
-- **Approach:** Learn → Build → Test → Improve
-
-<br/>
-<a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories" /></a>
-
-</td>
-</tr>
-</table>
-
-## ⌘ Tech stack
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
-<img src="https://img.shields.io/badge/Flask-0B1220?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
-<img src="https://img.shields.io/badge/MariaDB-0B1220?style=for-the-badge&logo=mariadb&logoColor=003545" alt="MariaDB" />
-<img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Wireshark-0B1220?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/Modbus%20%2F%20ICS-0B1220?style=for-the-badge&color=0B1220" alt="Modbus and ICS" />
-<img src="https://img.shields.io/badge/AutoCAD%20%2F%20Creo-0B1220?style=for-the-badge&color=0B1220" alt="AutoCAD and Creo" />
-</div>
-
-## ▣ Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [LAB Search](https://github.com/shlok3664/Lab-Search-CODE-MC)
-
-Industrial time-series anomaly detection for **ICS/SCADA** environments, with a Modbus-first direction.
-
-**Python · ML · Modbus · Industrial security**
-
-<sub>Early-stage project; prototype is under active development.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [CraftifAI Hackathon](https://github.com/shlok3664/CraftifAIHackathon_CRA004)
-
-AI-powered workplace-safety vision system using person detection, tracking, and hazard-zone alerts.
-
-**Computer vision · AI · Safety**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Finance Flow](https://github.com/shlok3664/Finance-Flow)
-
-A finance-focused software project exploring personal-finance workflows.
-
-**Finance · Software**
-
-</td>
-<td width="50%" valign="top">
-
-### [Avani](https://github.com/shlok3664/Avani)
-
-Explore the repository for implementation details and current capabilities.
-
-**Python · Project development**
-
-</td>
-</tr>
-</table>
-
-## ◈ GitHub telemetry
-
-<div align="center">
-<a href="https://github.com/shlok3664"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shlok3664&show_icons=true&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9&icon_color=00B8D9&rank_icon=github" alt="GitHub statistics" /></a>
-<a href="https://github.com/shlok3664"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok3664&layout=compact&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" /></a>
-</div>
-
-## ⌖ Current interests
-
-**Applied ML** · **Anomaly Detection** · **Cybersecurity** · **Network Security** · **ICS/SCADA** · **Systems Design** · **Quantitative Analysis** · **Robotics**
+🟢 **Currently building:** LAB Search
 
 ---
 
+## 📌 Pinned Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🔬 **[LAB Search](https://github.com/shlok3664)** | Modbus-first ML anomaly detection engine for industrial time-series (ICS/SCADA) | `Python` `ML` `SCADA` `Wireshark` |
+| 🛡️ **[A.E.G.I.S.](https://github.com/shlok3664)** | Secure backend with real-time behavior analysis and proctoring system | `Flask` `MariaDB` `Docker` `Python` |
+| 💡 **[CraftifAI Hackathon](https://github.com/shlok3664)** | AI-powered workplace safety solution using YOLOv8 + RTSP video feed | `Python` `Computer Vision` `AI` |
+| 📈 **[Finance Flow](https://github.com/shlok3664)** | Personal finance tracker with expense analytics and visualizations | `Python` `Pandas` `Flask` `Web` |
+
+> 🔧 Replace each `https://github.com/shlok3664` link with the real repo URL.
+
+---
+
+## 🧰 Tech Stack
+
 <div align="center">
-  <p><em>“Discipline today. Freedom tomorrow.”</em></p>
-  <sub><code>git commit -m "building a better future"</code></sub>
-  <br/><br/>
-  <a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/VIEW-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View repositories" /></a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shlok3664&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0&ring_color=38BDF8" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok3664&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0" alt="languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok3664&bg_color=020617&color=38BDF8&line=A78BFA&point=F472B6&area=true&area_color=0EA5E9&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
+
+---
+
+## 🎯 Current Interests
+
+- 🤖 Machine Learning & AI
+- 🔐 Cybersecurity & Network Security
+- 🦾 Robotics (long term)
+- 🧩 System Design
+- 📈 Finance & Quantitative Analysis
+- 🇯🇵 Japanese (N4)
+- 🌐 Open Source & Community
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Website](https://img.shields.io/badge/shlok3664.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://shlok3664.github.io)
+
+<div align="center">
+
+*"Small steps, consistent effort, extraordinary results."*
+
 </div>
