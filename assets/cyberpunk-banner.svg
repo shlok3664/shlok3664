@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020611"/><stop offset=".55" stop-color="#07162d"/><stop offset="1" stop-color="#020611"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00d9ff" stop-opacity="0"/><stop offset=".5" stop-color="#168cff" stop-opacity=".8"/><stop offset="1" stop-color="#00d9ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0a2145"/><stop offset="1" stop-color="#040914"/></linearGradient>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<circle cx="880" cy="95" r="76" fill="#133c75" opacity=".18"/>
+<circle cx="880" cy="95" r="52" fill="#4b83ff" opacity=".08"/>
+<path d="M0 205 L55 205 55 140 82 140 82 180 112 180 112 112 145 112 145 196 175 196 175 155 208 155 208 210 245 210 245 127 274 127 274 180 315 180 315 95 349 95 349 210 389 210 389 146 420 146 420 199 461 199 461 120 493 120 493 215 530 215 530 170 566 170 566 207 605 207 605 130 641 130 641 208 679 208 679 154 714 154 714 217 755 217 755 117 788 117 788 202 824 202 824 150 856 150 856 213 892 213 892 124 929 124 929 201 970 201 970 162 1006 162 1006 215 1046 215 1046 134 1080 134 1080 199 1114 199 1114 158 1145 158 1145 211 1200 211 1200 300 0 300Z" fill="url(#sky)" stroke="#123d71" stroke-opacity=".7"/>
+<g fill="#168cff" opacity=".55">
+<path d="M118 127h6v8h-6zm16 22h6v8h-6zm143-7h6v8h-6zm41-31h6v8h-6zm75 52h6v8h-6zm109-27h6v8h-6zm121 29h6v8h-6zm143-24h6v8h-6zm91 31h6v8h-6zm132-23h6v8h-6zm45 35h6v8h-6z"/>
+</g>
+<g fill="#00d9ff" opacity=".48">
+<path d="M65 163h5v7h-5zm66-32h5v7h-5zm128 42h5v7h-5zm88-55h5v7h-5zm101 58h5v7h-5zm152-28h5v7h-5zm129 39h5v7h-5zm138-49h5v7h-5zm91 44h5v7h-5zm120-34h5v7h-5z"/>
+</g>
+<path d="M0 250H1200" stroke="url(#glow)" stroke-width="2"/>
+<path d="M0 267H1200" stroke="#1b4d83" stroke-opacity=".35"/>
+<g font-family="monospace">
+<text x="62" y="74" font-size="13" fill="#54dfff" letter-spacing="3">SHLOK BAGUL / PROFILE</text>
+<text x="60" y="127" font-size="36" font-weight="700" fill="#e6f2ff">BUILD.</text>
+<text x="60" y="169" font-size="36" font-weight="700" fill="#58a6ff">SECURE.</text>
+<text x="60" y="211" font-size="36" font-weight="700" fill="#00d9ff">INTELLIGENCE.</text>
+<text x="62" y="282" font-size="13" fill="#8ba9d0" letter-spacing="2">AI  /  CYBERSECURITY  /  SYSTEMS</text>
+<text x="1000" y="274" font-size="12" fill="#5a8ecb" text-anchor="middle">[ LEARN • BUILD • IMPROVE ]</text>
+</g>
+</svg>
