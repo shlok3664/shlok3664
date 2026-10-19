@@ -1,12 +1,12 @@
-<!--
-  SHLOK3664 — Dark cyberpunk profile
-  Uses supported Markdown/HTML and externally hosted SVG widgets.
--->
+<!-- Dark cyberpunk profile for Shlok Bagul -->
 <div align="center">
-<a href="https://github.com/shlok3664"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=SHLOK+BAGUL;AI+%26+CYBERSECURITY+%40+IIT+PATNA;Building+systems.+Exploring+intelligence.;Better+systems.+Safer+tomorrow." alt="Typing introduction" /></a>
-<br/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING-07111F?style=for-the-badge&labelColor=020817&color=1F6FEB" alt="Learning and building" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20CYBERSECURITY-07111F?style=for-the-badge&labelColor=020817&color=00B8D9" alt="AI and cybersecurity" />
+  <img src="https://raw.githubusercontent.com/shlok3664/shlok3664/main/assets/cyberpunk-banner.svg" alt="Dark cyberpunk banner: Build. Secure. Intelligence." width="100%" />
+  <br/>
+  <h1>Shlok Bagul</h1>
+  <p><strong>Second-year BS student at IIT Patna · AI & Cybersecurity</strong></p>
+  <p><code>BUILD SYSTEMS</code> &nbsp; <code>SECURE INFRASTRUCTURE</code> &nbsp; <code>EXPLORE INTELLIGENCE</code></p>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING-07111F?style=for-the-badge&labelColor=020817&color=1F6FEB" alt="Learning and building" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20CYBERSECURITY-07111F?style=for-the-badge&labelColor=020817&color=00B8D9" alt="AI and cybersecurity" />
 </div>
 
 ---
@@ -22,8 +22,8 @@ I'm a **second-year BS student at IIT Patna**, interested in building intelligen
 I explore the intersection of **machine learning, systems, and cybersecurity**—especially practical problems where data and security meet.
 
 - **Currently:** Building LAB Search and developing project prototypes
-- **Exploring:** Applied ML, anomaly detection, network security
-- **Learning:** Stronger foundations in Python, statistics, and systems
+- **Exploring:** Applied ML, anomaly detection, and network security
+- **Learning:** Python, statistics, and systems fundamentals
 - **Open to:** Research conversations, collaborations, and internship opportunities
 
 </td>
@@ -31,14 +31,13 @@ I explore the intersection of **machine learning, systems, and cybersecurity**�
 
 ## // profile
 
-- **Name:** Shlok Bagul
 - **Handle:** [@shlok3664](https://github.com/shlok3664)
-- **Base:** IIT Patna
+- **Institution:** IIT Patna
 - **Interests:** AI · Cybersecurity · Systems
 - **Approach:** Learn → Build → Test → Improve
 
 <br/>
-<a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore my repositories" /></a>
+<a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories" /></a>
 
 </td>
 </tr>
@@ -59,7 +58,7 @@ I explore the intersection of **machine learning, systems, and cybersecurity**�
 <img src="https://img.shields.io/badge/AutoCAD%20%2F%20Creo-0B1220?style=for-the-badge&color=0B1220" alt="AutoCAD and Creo" />
 </div>
 
-## ▣ Projects in progress
+## ▣ Selected projects
 
 <table>
 <tr>
@@ -71,16 +70,16 @@ Industrial time-series anomaly detection for **ICS/SCADA** environments, with a 
 
 **Python · ML · Modbus · Industrial security**
 
-<sub>Early-stage project — actively developing and evaluating the prototype.</sub>
+<sub>Early-stage project; prototype is under active development.</sub>
 
 </td>
 <td width="50%" valign="top">
 
 ### [CraftifAI Hackathon](https://github.com/shlok3664/CraftifAIHackathon_CRA004)
 
-A hackathon project exploring an AI-powered solution; see the repository for current implementation details.
+AI-powered workplace-safety vision system using person detection, tracking, and hazard-zone alerts.
 
-**AI · Prototype · Hackathon**
+**Computer vision · AI · Safety**
 
 </td>
 </tr>
@@ -89,20 +88,18 @@ A hackathon project exploring an AI-powered solution; see the repository for cur
 
 ### [Finance Flow](https://github.com/shlok3664/Finance-Flow)
 
-A finance-focused project exploring tools and workflows for personal finance.
+A finance-focused software project exploring personal-finance workflows.
 
 **Finance · Software**
 
 </td>
 <td width="50%" valign="top">
 
-### Network Security Lab
+### [Avani](https://github.com/shlok3664/Avani)
 
-Building practical network-security and detection projects, with tools such as Nmap and Wireshark.
+Explore the repository for implementation details and current capabilities.
 
-**Cybersecurity · Networking · Detection**
-
-<sub>Work in progress — more details will be added as implementations mature.</sub>
+**Python · Project development**
 
 </td>
 </tr>
@@ -113,8 +110,6 @@ Building practical network-security and detection projects, with tools such as N
 <div align="center">
 <a href="https://github.com/shlok3664"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shlok3664&show_icons=true&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9&icon_color=00B8D9&rank_icon=github" alt="GitHub statistics" /></a>
 <a href="https://github.com/shlok3664"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok3664&layout=compact&hide_border=true&bg_color=050B16&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" /></a>
-<br/>
-<a href="https://github.com/shlok3664"><img src="https://streak-stats.demolab.com?user=shlok3664&hide_border=true&background=050B16&ring=1F6FEB&fire=00B8D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" /></a>
 </div>
 
 ## ⌖ Current interests
@@ -124,11 +119,8 @@ Building practical network-security and detection projects, with tools such as N
 ---
 
 <div align="center">
-
-> **“Discipline today. Freedom tomorrow.”**
-
-<sub>git commit -m "building a better future"</sub>
-
-<br/>
-<a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/VIEW-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View repositories" /></a>
+  <p><em>“Discipline today. Freedom tomorrow.”</em></p>
+  <sub><code>git commit -m "building a better future"</code></sub>
+  <br/><br/>
+  <a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/VIEW-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=58A6FF" alt="View repositories" /></a>
 </div>
