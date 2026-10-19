@@ -1,138 +1,131 @@
-<!-- Save as README.md inside a public repo named exactly "shlok3664" -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,40:0284c7,75:7c3aed,100:db2777&text=Shlok&fontColor=ffffff&fontSize=80&fontAlignY=42&desc=build%20%E2%80%A2%20secure%20%E2%80%A2%20intelligent%20systems&descSize=20&descAlignY=68&descColor=e0f2fe" width="100%" alt="Shlok banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:020617,45:082f49,75:1d4ed8,100:0891b2&text=SHLOK%20BAGUL&fontColor=ecfeff&fontSize=58&fontAlignY=40&desc=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20IMPROVE&descSize=17&descAlignY=65&descColor=bae6fd" width="100%" alt="Shlok Bagul — Build, Secure, Improve" />
 
 <a href="https://github.com/shlok3664">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=67E8F9&center=true&vCenter=true&width=560&height=40&lines=Learn.+Build.+Improve.+Repeat.;AI+%C3%97+Cybersecurity;Discipline+today%2C+freedom+tomorrow." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1600&color=67E8F9&center=true&vCenter=true&width=650&height=38&lines=AI+%26+Cybersecurity+%40+IIT+Patna;Learn.+Build.+Test.+Improve.;Intelligent+systems.+Safer+infrastructure." alt="AI and cybersecurity profile introduction" />
 </a>
 
 <br/>
-
-![AI](https://img.shields.io/badge/AI-0EA5E9?style=for-the-badge&labelColor=020617)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-22D3EE?style=for-the-badge&labelColor=020617)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-A78BFA?style=for-the-badge&labelColor=020617)
-![Network Security](https://img.shields.io/badge/Network_Security-60A5FA?style=for-the-badge&labelColor=020617)
-![Systems](https://img.shields.io/badge/Systems-F472B6?style=for-the-badge&labelColor=020617)
-
-<img src="https://komarev.com/ghpvc/?username=shlok3664&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="views" />
-
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20CYBERSECURITY-082f49?style=for-the-badge&labelColor=020617" alt="AI and cybersecurity" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-1d4ed8?style=for-the-badge&labelColor=020617" alt="Actively building" />
+<img src="https://komarev.com/ghpvc/?username=shlok3664&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+---
 
-## 👋 Hi, I'm Shlok
+## > whoami
 
-```text
-> whoami
-shlok — second-year BS student, AI & Cybersecurity
+I'm a **second-year BS student at IIT Patna** interested in the intersection of **machine learning, cybersecurity, and real-world systems**.
 
-> focus
-building intelligent systems and securing digital infrastructure
+I like working on practical problems: detecting unusual patterns in industrial data, building secure backend systems, and exploring computer vision applications.
 
-> approach
-real-world problems → projects → research → curious learning
+- **Currently building:** LAB Search, an early-stage Modbus-first anomaly-detection prototype for ICS/SCADA time-series.
+- **Exploring:** Applied ML, anomaly detection, network security, and system design.
+- **Working style:** Learn the fundamentals → build a prototype → test it honestly → iterate.
+- **Open to:** Research discussions, project collaboration, and relevant internship opportunities.
 
-> status
-🟢 building LAB Search...
-```
+<details>
+<summary><strong>Terminal note</strong></summary>
 
-I work at the intersection of **AI** and **cybersecurity**: ML that spots anomalies in industrial networks, secure backends, and computer vision for safety.
+    $ focus
+    AI / cybersecurity / systems
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+    $ workflow
+    learn -> build -> test -> improve
 
-## 📌 Pinned Projects
+    $ principle
+    measure what works; be honest about what doesn't
+
+</details>
+
+## ▣ Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 [LAB Search](https://github.com/shlok3664)
-Modbus-first ML anomaly detection engine for industrial time-series (ICS/SCADA).
+### [LAB Search](https://github.com/shlok3664/Lab-Search-CODE-MC)
 
-`Python` `ML` `SCADA` `Wireshark`
+An early-stage project exploring **Modbus-first ML anomaly detection** for industrial time-series in ICS/SCADA environments.
+
+Python · scikit-learn · Modbus · Wireshark
+
+<sub>Prototype under active development; performance is still being evaluated.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [A.E.G.I.S.](https://github.com/shlok3664)
-Secure backend with real-time behavior analysis and a proctoring system.
+### [CraftifAI Hackathon](https://github.com/shlok3664/CraftifAIHackathon_CRA004)
 
-`Flask` `MariaDB` `Docker` `Python`
+Workplace-safety computer vision prototype using person detection, tracking, and hazard-zone alerts. See the repository for implementation details and current limitations.
+
+Python · Computer Vision · YOLO
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💡 [CraftifAI Hackathon](https://github.com/shlok3664)
-AI-powered workplace safety solution using YOLOv8 + RTSP video feed.
+### A.E.G.I.S.
 
-`Python` `Computer Vision` `AI`
+A secure-backend and real-time behavior-analysis project, built around a proctoring use case.
+
+Flask · MariaDB · REST APIs
+
+<sub>Repository link can be added when the project is ready to share.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Finance Flow](https://github.com/shlok3664)
-Personal finance tracker with expense analytics and visualizations.
+### [Finance Flow](https://github.com/shlok3664/Finance-Flow)
 
-`Python` `Pandas` `Flask` `Web`
+A finance-oriented software project focused on personal-finance workflows and expense analytics.
+
+Python · Pandas · Flask
 
 </td>
 </tr>
 </table>
 
-> 🔧 Swap each `https://github.com/shlok3664` link for the real repo URL.
-
-## 🧰 Tech Stack
+## ⌘ Tools & technologies
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
-
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/scikit--learn-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
+<img src="https://img.shields.io/badge/Flask-0B1220?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
+<img src="https://img.shields.io/badge/MariaDB-0B1220?style=for-the-badge&logo=mariadb&logoColor=003545" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<img src="https://img.shields.io/badge/Wireshark-0B1220?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Modbus%20%2F%20ICS-0B1220?style=for-the-badge&color=0B1220" alt="Modbus and ICS" />
+<img src="https://img.shields.io/badge/AutoCAD%20%2F%20Creo-0B1220?style=for-the-badge&color=0B1220" alt="AutoCAD and Creo" />
 </div>
 
-## 📊 GitHub Stats
+## ◈ GitHub activity
 
 <div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=shlok3664&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=C4B5FD&text_color=F1F5F9&ring_color=22D3EE" alt="stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok3664&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=F1F5F9" alt="top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok3664&bg_color=020617&color=67E8F9&line=A78BFA&point=F9A8D4&area=true&area_color=0EA5E9&hide_border=true" width="100%" alt="activity graph" />
-
-</div>
-
-## 🎯 Current Interests
-
-| | |
-|---|---|
-| 🤖 **Machine Learning & AI** | 🔐 **Cybersecurity & Network Security** |
-| 🧩 **System Design** | 📈 **Finance & Quantitative Analysis** |
-| 🦾 **Robotics** *(long term)* | 🇯🇵 **Japanese** *(N4)* |
-| 🌐 **Open Source & Community** | |
-
-## 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Website](https://img.shields.io/badge/shlok3664.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://shlok3664.github.io)
-
+<a href="https://github.com/shlok3664"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shlok3664&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" /></a>
+<a href="https://github.com/shlok3664"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok3664&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1" alt="Most used languages" /></a>
 <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shlok3664&bg_color=020617&color=67E8F9&line=3B82F6&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</div>
 
-*"Small steps, consistent effort, extraordinary results."*
+## ⌖ Areas I'm exploring
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:0284c7,100:7c3aed&section=footer" width="100%" alt="footer" />
+| Technical | Broader interests |
+|---|---|
+| Machine learning & anomaly detection | Quantitative analysis |
+| Cybersecurity & network security | Robotics — long-term interest |
+| ICS/SCADA & industrial protocols | Japanese language |
+| Backend systems & APIs | Open source and collaboration |
 
+## Connect
+
+<div align="center">
+<a href="https://github.com/shlok3664"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/Repositories-082f49?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories" /></a>
+<br/>
+<sub>“Discipline today. Freedom tomorrow.”</sub>
 </div>
