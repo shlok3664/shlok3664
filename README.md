@@ -125,6 +125,8 @@ Python · Pandas · Flask
 
 <div align="center">
 <a href="https://github.com/shlok3664"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/shlok-bagul-936729261/"><img src="https://img.shields.io/badge/LinkedIn-082f49?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn" /></a>
+<a href="mailto:shlokbagul4@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 <a href="https://github.com/shlok3664?tab=repositories"><img src="https://img.shields.io/badge/Repositories-082f49?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Repositories" /></a>
 <br/>
 <sub>“Discipline today. Freedom tomorrow.”</sub>
