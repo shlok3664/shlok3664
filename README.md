@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg?v=2" width="100%" alt="Shlok Bagul — second-year BS student at IIT Patna exploring ML, anomaly detection, and cybersecurity" />
+<img src="banner.svg?v=3" width="100%" alt="Shlok Bagul — transparent banner: second-year BS student at IIT Patna exploring ML, anomaly detection, and cybersecurity" />
 
 </div>
 
