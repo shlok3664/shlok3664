@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Shlok Bagul — IIT Patna</title>
-  <desc id="desc">Minimal research portfolio banner for a student interested in machine learning and cybersecurity.</desc>
+  <title id="title">Shlok Bagul — Student at IIT Patna</title>
+  <desc id="desc">A short introduction to Shlok Bagul, a second-year BS student at IIT Patna interested in machine learning and cybersecurity.</desc>
   <rect width="1280" height="320" fill="#f7f9fc"/>
-  <rect x="0" y="0" width="12" height="320" fill="#356b91"/>
+  <rect width="12" height="320" fill="#356b91"/>
   <circle cx="1080" cy="160" r="190" fill="#e8f0f7"/>
   <circle cx="1080" cy="160" r="132" fill="none" stroke="#c4d7e6" stroke-width="1.5"/>
   <circle cx="1080" cy="160" r="88" fill="none" stroke="#d2e0eb" stroke-width="1.5"/>
@@ -10,9 +10,9 @@
   <g fill="#356b91">
     <circle cx="1080" cy="72" r="4"/><circle cx="1168" cy="160" r="4"/><circle cx="1080" cy="248" r="4"/><circle cx="992" cy="160" r="4"/>
   </g>
-  <text x="88" y="105" fill="#526779" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">RESEARCH PORTFOLIO</text>
-  <text x="84" y="174" fill="#172b3a" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Shlok Bagul</text>
-  <text x="88" y="218" fill="#3d647f" font-family="Arial, Helvetica, sans-serif" font-size="21">Student at IIT Patna</text>
-  <text x="88" y="258" fill="#526779" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">MACHINE LEARNING  ·  ANOMALY DETECTION  ·  CYBERSECURITY</text>
-  <path d="M88 280 H300" stroke="#356b91" stroke-width="3" stroke-linecap="round"/>
+  <text x="88" y="92" fill="#526779" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">HELLO, I'M</text>
+  <text x="84" y="158" fill="#172b3a" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Shlok Bagul</text>
+  <text x="88" y="204" fill="#3d647f" font-family="Arial, Helvetica, sans-serif" font-size="22">Second-year BS student at IIT Patna</text>
+  <text x="88" y="247" fill="#526779" font-family="Arial, Helvetica, sans-serif" font-size="17">Exploring ML, anomaly detection &amp; cybersecurity</text>
+  <path d="M88 278 H300" stroke="#356b91" stroke-width="3" stroke-linecap="round"/>
 </svg>
