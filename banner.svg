@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
   <title id="title">Shlok Bagul — IIT Patna</title>
-  <desc id="desc">Transparent minimal banner introducing Shlok Bagul, a second-year BS student at IIT Patna exploring machine learning, anomaly detection, and cybersecurity.</desc>
+  <desc id="desc">Shlok Bagul, second-year BS student at IIT Patna exploring machine learning, anomaly detection, and cybersecurity.</desc>
+  <rect width="1280" height="320" fill="#0d1117"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="64" y="78" fill="#7ba7c9" font-size="17" letter-spacing="3">HELLO, I'M</text>
-    <text x="60" y="150" fill="currentColor" font-size="60" font-weight="700" letter-spacing="-1.5">Shlok Bagul</text>
-    <text x="64" y="197" fill="#6d9abb" font-size="24">Second-year BS student at IIT Patna</text>
-    <text x="64" y="241" fill="currentColor" opacity="0.78" font-size="18">Exploring ML, anomaly detection &amp; cybersecurity</text>
+    <text x="64" y="78" fill="#8bb8d8" font-size="17" letter-spacing="3">HELLO, I'M</text>
+    <text x="60" y="150" fill="#f0f6fc" font-size="60" font-weight="700" letter-spacing="-1.5">Shlok Bagul</text>
+    <text x="64" y="197" fill="#8bb8d8" font-size="24">Second-year BS student at IIT Patna</text>
+    <text x="64" y="241" fill="#c9d1d9" font-size="18">Exploring ML, anomaly detection &amp; cybersecurity</text>
     <path d="M64 274 H310" stroke="#58a6ff" stroke-width="3" stroke-linecap="round"/>
   </g>
-  <g fill="none" stroke="#58a6ff" stroke-opacity="0.55">
+  <g fill="none" stroke="#58a6ff" stroke-opacity="0.48">
     <circle cx="1050" cy="160" r="164" stroke-width="1.5"/>
     <circle cx="1050" cy="160" r="118" stroke-width="1.5"/>
     <circle cx="1050" cy="160" r="72" stroke-width="1.5"/>
-    <path d="M860 160 H1240 M1050 -10 V330 M924 34 L972 82 H1018 M1090 238 H1160 L1200 278"/>
-    <path d="M872 104 H925 M1168 88 H1225"/>
+    <path d="M860 160 H1240 M1050 -10 V330"/>
   </g>
   <g fill="#58a6ff">
-    <circle cx="1050" cy="42" r="4"/><circle cx="1168" cy="160" r="4"/><circle cx="1050" cy="278" r="4"/><circle cx="932" cy="160" r="4"/><circle cx="972" cy="82" r="3"/><circle cx="1200" cy="278" r="3"/>
+    <circle cx="1050" cy="42" r="4"/><circle cx="1168" cy="160" r="4"/><circle cx="1050" cy="278" r="4"/><circle cx="932" cy="160" r="4"/>
   </g>
 </svg>
