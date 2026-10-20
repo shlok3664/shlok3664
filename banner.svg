@@ -1,18 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
-  <title id="title">Shlok Bagul — Student at IIT Patna</title>
-  <desc id="desc">A short introduction to Shlok Bagul, a second-year BS student at IIT Patna interested in machine learning and cybersecurity.</desc>
-  <rect width="1280" height="320" fill="#f7f9fc"/>
-  <rect width="12" height="320" fill="#356b91"/>
-  <circle cx="1080" cy="160" r="190" fill="#e8f0f7"/>
-  <circle cx="1080" cy="160" r="132" fill="none" stroke="#c4d7e6" stroke-width="1.5"/>
-  <circle cx="1080" cy="160" r="88" fill="none" stroke="#d2e0eb" stroke-width="1.5"/>
-  <path d="M920 160 H1240 M1080 0 V320" stroke="#d5e2ec" stroke-width="1"/>
-  <g fill="#356b91">
-    <circle cx="1080" cy="72" r="4"/><circle cx="1168" cy="160" r="4"/><circle cx="1080" cy="248" r="4"/><circle cx="992" cy="160" r="4"/>
+  <title id="title">Shlok Bagul — IIT Patna</title>
+  <desc id="desc">Transparent minimal banner introducing Shlok Bagul, a second-year BS student at IIT Patna exploring machine learning, anomaly detection, and cybersecurity.</desc>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="78" fill="#7ba7c9" font-size="17" letter-spacing="3">HELLO, I'M</text>
+    <text x="60" y="150" fill="currentColor" font-size="60" font-weight="700" letter-spacing="-1.5">Shlok Bagul</text>
+    <text x="64" y="197" fill="#6d9abb" font-size="24">Second-year BS student at IIT Patna</text>
+    <text x="64" y="241" fill="currentColor" opacity="0.78" font-size="18">Exploring ML, anomaly detection &amp; cybersecurity</text>
+    <path d="M64 274 H310" stroke="#58a6ff" stroke-width="3" stroke-linecap="round"/>
   </g>
-  <text x="88" y="92" fill="#526779" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">HELLO, I'M</text>
-  <text x="84" y="158" fill="#172b3a" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Shlok Bagul</text>
-  <text x="88" y="204" fill="#3d647f" font-family="Arial, Helvetica, sans-serif" font-size="22">Second-year BS student at IIT Patna</text>
-  <text x="88" y="247" fill="#526779" font-family="Arial, Helvetica, sans-serif" font-size="17">Exploring ML, anomaly detection &amp; cybersecurity</text>
-  <path d="M88 278 H300" stroke="#356b91" stroke-width="3" stroke-linecap="round"/>
+  <g fill="none" stroke="#58a6ff" stroke-opacity="0.55">
+    <circle cx="1050" cy="160" r="164" stroke-width="1.5"/>
+    <circle cx="1050" cy="160" r="118" stroke-width="1.5"/>
+    <circle cx="1050" cy="160" r="72" stroke-width="1.5"/>
+    <path d="M860 160 H1240 M1050 -10 V330 M924 34 L972 82 H1018 M1090 238 H1160 L1200 278"/>
+    <path d="M872 104 H925 M1168 88 H1225"/>
+  </g>
+  <g fill="#58a6ff">
+    <circle cx="1050" cy="42" r="4"/><circle cx="1168" cy="160" r="4"/><circle cx="1050" cy="278" r="4"/><circle cx="932" cy="160" r="4"/><circle cx="972" cy="82" r="3"/><circle cx="1200" cy="278" r="3"/>
+  </g>
 </svg>
