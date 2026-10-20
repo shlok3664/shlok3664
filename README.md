@@ -14,26 +14,6 @@ I'm a **second-year BS student at IIT Patna** interested in **Machine Learning, 
 - Industrial cybersecurity, ICS/SCADA, and Modbus
 - Network security and secure systems
 
-## Selected projects
-
-### [LAB Search](https://github.com/shlok3664/Lab-Search-CODE-MC)
-An early-stage project exploring ML-based anomaly detection for industrial time-series data, with a Modbus-first direction for ICS/SCADA environments.
-
-**Technologies:** Python, scikit-learn, Modbus, Wireshark  
-**Status:** Prototype in development; evaluation and parameters are still being refined.
-
-### [CraftifAI Hackathon](https://github.com/shlok3664/CraftifAIHackathon_CRA004)
-A computer-vision prototype exploring person detection, tracking, and hazard-zone alerts.
-
-**Focus:** Computer vision, object detection, real-time processing  
-**Status:** See the repository for implementation details and current limitations.
-
-### A.E.G.I.S.
-A project involving a secure backend and real-time voice/gaze tracking for a proctoring use case.
-
-**Technologies:** Flask, MariaDB, REST APIs  
-**Status:** Project completed; repository link is not currently listed here.
-
 ## Technical toolkit
 
 **Languages & data:** Python, Pandas  
